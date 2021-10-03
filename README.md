@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sjzyzz
-- 👀 I’m interested in deep learning espicially video action recognition
-- 🌱 I’m currently learning how to write TSN code
+- 👀 I’m interested in computer vision(which means i dont know what specific thing to do next, still exploring)
 - 📫 Reach me via yzz20@mails.tsinghua.edu.cn
 
 <!---
